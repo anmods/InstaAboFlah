@@ -2,7 +2,7 @@
 # : @tech4faccount 
 #  : @samer00s
 ob_start();
-define('API_KEY','     ');
+define('API_KEY','5452548013:AAGJFIxj4xulpcjSEeaYIUTnuPTpizcbo6c');
 function bot($method,$datas=[]){
     $url = "https://api.telegram.org/bot5452548013:AAGJFIxj4xulpcjSEeaYIUTnuPTpizcbo6c".API_KEY."/setwebhook?url=https://raw.githubusercontent.com/anmods/InstaAboFlah/main/TestKrop.php".$method;
 $ch = curl_init();
