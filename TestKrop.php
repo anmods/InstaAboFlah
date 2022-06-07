@@ -8,7 +8,7 @@ ob_start();
 $API_KEY = "5233342548:AAGXOthIF1YzqROM6nPJkceqniIVDvO_zmc";
 define('API_KEY','5233342548:AAGXOthIF1YzqROM6nPJkceqniIVDvO_zmc');
 define('API_KEY','5233342548:AAGXOthIF1YzqROM6nPJkceqniIVDvO_zmc');
-echo "https://api.telegram.org/bot".API_KEY."/setwebhook?url=".$_SERVER['SERVER_NAME']."".$_SERVER['SCRIPT_NAME'];
+echo "https://api.telegram.org/bot5452548013:AAGJFIxj4xulpcjSEeaYIUTnuPTpizcbo6c".API_KEY."/setwebhook?url=https://raw.githubusercontent.com/anmods/InstaAboFlah/main/TestKrop.php".$_SERVER['SERVER_NAME']."".$_SERVER['SCRIPT_NAME'];
   
 define('NO', '❌');
 define('YES', '✅');
