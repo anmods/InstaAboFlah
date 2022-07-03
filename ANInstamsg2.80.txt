@@ -1,0 +1,20 @@
+تحديث جديد لـ انستقرام راكان الشرماني
+
+[تحديث قاعدة] انستقرام الى 240.2.0.18.107
+[اضافة] جميع مميزات انستقرام الجديده
+[حصريا] بامكانك الان اظهار الدردشات المخفيه عبر الضغط المطول على مربع البحث
+[اضافة] تصميم جديد لخيار قفل التطبيق
+[إزالة] إعادة توجيه الفيديو السريع بواسطة Instagram
+[اصلاح] خيارات المطور
+[اصلاح] مشكلة الانهيار عند تغيير اللغه في اندرويد 12
+[اصلاح] جميع مشاكل الانهيار
+[مزيد] اصلاحات وتحسينات اكتشفها بنفسك
+
+English 
+[Base Update] 240.2.0.18.107
+[New ] New App Lock design
+[Exclusive] You can now show hidden chats by long pressing on the search box
+[ Remove] Video Fast Forwarding By Instagram
+[Fixed] Developer Options
+[Fixed] The problem of crashing when changing the language in Android 12
+[Fixed] Many Random Crash
